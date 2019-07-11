@@ -1,0 +1,5 @@
+In this project we are going to classify the amazon fine food reviews with the help of knn and it is a binary classifier 
+where the score of the reviews of above 3 are 1 and below three are 0.
+we have used tf-idf for creating the word to vector.
+we have trained out model with more than 70k points and test 30k\
+In training the model we have choosen cv for better results
